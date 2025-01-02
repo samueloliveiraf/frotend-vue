@@ -1,6 +1,6 @@
 import serve from 'serve';
 
 
-serve('/home/front-cuca/dist', {
+serve('/home/frotend-vue/dist', {
   port: 8080
 });
